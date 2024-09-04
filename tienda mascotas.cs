@@ -15,7 +15,7 @@ public class Cliente
 
 public class Mascota
 {
-    private int id_mascota;
+    private int id_mascota=0;
     private string codigoMascota = "";
     private string nombre = "";
 

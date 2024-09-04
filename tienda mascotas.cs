@@ -3,7 +3,7 @@ using System;
 
 public class Cliente
 {
-    private int id_persona;
+    private int id_persona=0;
     private string cedula = "";
     private string nombre = "";
     
